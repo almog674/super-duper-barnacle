@@ -1,0 +1,5 @@
+add_word: Insert new word to the dictionary
+get_meaning: Get the meaning of a word
+delete_word: Delete a word from the dictionary
+print_dict: Print all the dictionary
+exit: Exit_the program

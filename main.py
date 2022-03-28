@@ -1,5 +1,8 @@
+from dictionary import Dictionary
+
 def main():
-    print("hello world")
+    my_dict = Dictionary()
+    my_dict.start()
 
 
 
